@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c684ba-b91b-494c-ab3b-69040dfea817" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftinginterpreters/lox/Expr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/craftinginterpreters/tool/GenerateAst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/craftinginterpreters/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/craftinginterpreters/tool/GenerateAst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

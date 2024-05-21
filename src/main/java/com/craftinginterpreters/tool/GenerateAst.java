@@ -25,11 +25,10 @@ public class GenerateAst {
     }
 
     /**
-     *
-     * @param outputDir
-     * @param baseName
-     * @param types
-     * @throws IOException
+     * Generates a class of nodes that defines the AST
+     * @param outputDir the filepath to output the class to
+     * @param baseName the name of the file to write
+     * @param types a list of types in the AST
      */
     private static void defineAst(String outputDir, String baseName, List<String> types) throws IOException {
         String path = outputDir + "/" + baseName + ".java";
